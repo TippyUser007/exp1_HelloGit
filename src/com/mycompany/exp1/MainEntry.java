@@ -23,7 +23,6 @@ public class MainEntry {
 		
 		Village villageToEat = new Village(10);
 		Dragon DragonSmaug = new Smaug(villageToEat);
-
 	}
 
 }
